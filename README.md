@@ -2,7 +2,7 @@ Hi there, I'm Brajesh V Kulkarni 👋
 
 ## About Me
 
-🌍 I'm from [Bengaluru], brought up in Kolar Gold Fields (KGF) and passionate about Data Analyst keen on transforming raw data into actionable insights. Proficient in analytical tools and driven by a curiosity to unravel stories within data. Eager to apply analytical skills to solve complex problems in the data realm..
+🌍 I'm from Bengaluru, brought up in Kolar Gold Fields (KGF) and passionate about Data Analyst keen on transforming raw data into actionable insights. Proficient in analytical tools and driven by a curiosity to unravel stories within data. Eager to apply analytical skills to solve complex problems in the data realm..
 
 🎓 I have a background in Electrical and Electronics Engineering studied at Amrita School of Engineering Bengaluru.
 
