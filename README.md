@@ -22,8 +22,8 @@ Hi there, I'm Brajesh V Kulkarni 👋
 
 🎯 My current goals include:
 - To Become Full Stack Data Scientist in next 3 Years
-- To have an ability to adapt the situations 
-- To have the ability learn quickly and in fast way
+- To have the ability to adapt situations 
+- To have the ability learn quickly and in smart way
 
 ## Let's Connect!
 
