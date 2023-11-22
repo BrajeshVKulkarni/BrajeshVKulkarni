@@ -1,4 +1,4 @@
-Hi there, I'm Brajesh V Kulkarni 👋
+## Hi there, I'm Brajesh V Kulkarni 👋
 
 # About Me
 
@@ -6,7 +6,7 @@ Hi there, I'm Brajesh V Kulkarni 👋
 
 🎓 I have a background in Electrical and Electronics Engineering studied at Amrita School of Engineering Bengaluru.
 
-.## Interests & Skills
+## Interests & Skills
 
 🚀 I'm particularly interested in:
 - Sports and Fitness specially playing Field Hockey
