@@ -6,6 +6,8 @@
 
 🎓 I have a background in Electrical and Electronics Engineering, studied at Amrita School of Engineering, Bengaluru.
 
+🎓 I have also completed the 6 months certification program in Data Analytics Training from Masai School.  
+
 ---
 
 ## Interests & Skills
