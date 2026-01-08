@@ -24,6 +24,8 @@
 - Looker Studio
 - Metabase
 - Google Sheets
+- Postman API
+- Redash
 
 ---
 
