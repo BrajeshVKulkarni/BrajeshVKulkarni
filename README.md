@@ -1,218 +1,187 @@
-```markdown
-# Hi there, I'm Brajesh V Kulkarni 👋
+# Hi, I'm Brajesh V Kulkarni 👋
 
 ### Data Analyst | SQL | Python | Excel | Power BI | BigQuery | Regex
 
-📍 Bengaluru, India | 🏠 Brought up in Kolar Gold Fields (KGF)
+📍 Bengaluru, India | Brought up in Kolar Gold Fields (KGF)
 
 I’m a **Data Analyst with 2 years of experience** working with financial, transaction, and operational data.
 
-I enjoy transforming raw and complex datasets into **actionable insights**, improving data quality, automating repetitive processes, and building dashboards that support better business decisions.
-
-My experience includes **bank statement extraction, transaction categorization, data validation, business performance analysis, KPI reporting, process automation, and BI dashboard development**.
+I enjoy turning raw data into meaningful insights, improving data quality, automating repetitive processes, and building dashboards that help teams make better decisions.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔍 Experienced in **financial data analysis, transaction categorization, and data quality**
-- 🏦 Worked with **bank and credit card statement data extraction**
-- 🧩 Developed **Regex-based extraction rules** for structured and semi-structured financial data
-- 📊 Built and maintained dashboards using **Power BI, Looker Studio, and Metabase**
-- ⚙️ Automated workflows using **SQL, BigQuery, Excel, and Google Sheets**
-- 📈 Experienced in KPI analysis including **Revenue, Repeat Rate, AOV, Orders per Customer, and LTV**
-- 🧹 Skilled in **data cleaning, validation, EDA, anomaly detection, and root cause analysis**
-- 🤝 Worked with **Data Science, business, client, and cross-functional teams**
-- 🎓 Background in **Electrical and Electronics Engineering**
-- 📚 Completed a **Data Analytics certification program from Masai School**
+- Experienced in **financial data analysis, transaction categorization, and data validation**
+- Worked on **bank and credit card statement extraction**
+- Developed **Regex-based extraction rules** for structured and semi-structured data
+- Built dashboards using **Power BI, Looker Studio, and Metabase**
+- Automated workflows using **SQL, BigQuery, Excel, and Google Sheets**
+- Worked with KPIs such as **Revenue, Repeat Rate, AOV, Orders per Customer, and LTV**
+- Collaborated with **Data Science, client, business, and cross-functional teams**
+- Background in **Electrical and Electronics Engineering**
+- Completed a **Data Analytics certification from Masai School**
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming & Querying
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-Pattern%20Matching-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-Pattern%20Matching-blue)
 
-### Python Libraries
+### Libraries
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue)
 
-### Databases & Data Platforms
+### Databases & BI
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-FF7964?style=flat)
 
-### BI & Visualization
+### Tools
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![Redash](https://img.shields.io/badge/Redash-FF7964?style=for-the-badge)
-
-### Spreadsheets & Tools
-
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-# 💼 Experience Highlights
+## Experience Highlights
 
-## 🏦 Financial Data & Data Quality
+### Financial Data & Data Quality
 
-- 🧩 Developed **Regex-based extraction rules** for new bank and credit card statement formats, expanding identity and transaction data coverage.
+- Developed **Regex-based extraction rules** for new bank and credit card statement formats
+- Improved transaction categorization fill rate from **84.3% to 93.1%**
+- Investigated **data inconsistencies, extraction failures, and categorization issues**
+- Validated POC and ad-hoc outputs with Data Science teams
+- Worked on improving the accuracy and reliability of financial data
 
-- 📊 Evaluated business and non-business transactions to identify categorization gaps, increasing transaction categorization fill rate from **84.3% to 93.1% (+8.8 percentage points)**.
+### Business & Operational Analytics
 
-- 🔍 Investigated **data inconsistencies, extraction failures, and categorization errors** in collaboration with clients and internal teams.
-
-- ✅ Validated **POC and ad-hoc outputs** with Data Science teams to ensure accurate and reliable results.
-
----
-
-## 📈 Business & Operational Analytics
-
-- 📊 Assessed **1,200+ daily leads and operational datasets** to identify trends, performance gaps, and process improvement opportunities.
-
-- 📉 Built **Metabase and Looker Studio dashboards** tracking:
+- Worked with **1,200+ daily leads and operational datasets**
+- Built dashboards tracking:
   - Revenue
   - Repeat Rate
-  - Average Order Value (AOV)
+  - Average Order Value
   - Orders per Customer
-  - Lifetime Value (LTV)
-
-- 📈 Supported data-driven initiatives that contributed to a **15% increase in revenue**.
-
-- ⚙️ Automated lead allocation and reporting workflows using **SQL, BigQuery, and Excel**, reducing daily processing time from **3 hours to 1.5 hours — a 50% improvement**.
-
-- ✅ Achieved **100% lead coverage** through workflow automation.
-
-- 🚀 Supported process improvements that increased consultation handling capacity from **24 to 40 consultations per doctor (+67%)**.
+  - Lifetime Value
+- Contributed to a **15% increase in revenue**
+- Automated lead allocation and reporting using **SQL, BigQuery, and Excel**
+- Reduced processing time from **3 hours to 1.5 hours**
+- Achieved **100% lead coverage**
+- Helped increase consultation capacity from **24 to 40 per doctor**
 
 ---
 
-# 🚀 Featured Project
+## Featured Project
 
-## 🥬 Vegetable Market Price Analysis
+### Vegetable Market Price Analysis
 
-**Tech Stack:** `Python` `Pandas` `Excel` `Data Visualization`
+**Tools:** Python, Pandas, Excel, Data Visualization
 
-### Objective
-
-Understand vegetable price variations across markets and identify seasonal pricing patterns.
-
-### What I Did
-
-- Scraped and evaluated **12 months of vegetable price data** for Noida and Delhi.
-- Compared pricing across neighboring markets.
-- Identified important **seasonal price trends and pricing patterns**.
-- Studied how price variations affected different income groups.
-- Built an **interactive dashboard** to communicate findings.
-
-### Skills Demonstrated
-
-`Data Collection` • `Data Cleaning` • `EDA` • `Python` • `Excel` • `Data Visualization` • `Business Insights`
+- Collected and studied **12 months of vegetable price data**
+- Compared prices across Noida, Delhi, and neighboring markets
+- Identified seasonal pricing patterns and trends
+- Studied the impact of price variations across different income groups
+- Built an interactive dashboard to present the findings clearly
 
 ---
 
-# 📊 Data Analytics Skills
+## Data Analytics Skills
 
-- Data Cleaning
-- Data Validation
-- Exploratory Data Analysis (EDA)
-- ETL
-- Data Quality Management
-- Financial Data Analysis
-- Transaction Categorization
-- Bank Statement Analysis
-- Anomaly Detection
-- Root Cause Analysis
-- Time-Series Analysis
-- KPI Reporting
-- Dashboard Development
-- Process Automation
-- Stakeholder Management
+`Data Cleaning`  
+`Data Validation`  
+`EDA`  
+`ETL`  
+`Data Quality`  
+`Financial Data Analysis`  
+`Transaction Categorization`  
+`Anomaly Detection`  
+`Root Cause Analysis`  
+`Time-Series Analysis`  
+`KPI Reporting`  
+`Dashboarding`  
+`Process Automation`  
+`Stakeholder Management`
 
 ---
 
-# 🏆 Achievement
+## Achievement
 
-### 🥇 Key Project Achievement Award
+### Key Project Achievement Award
 
 Scaled daily lead allocation capacity from:
 
 **200 leads/day → 1,200 leads/day**
 
-using automation with **Excel, Google BigQuery, and Google Sheets**.
+through automation using **Excel, BigQuery, and Google Sheets**.
 
 ---
 
-# 🎓 Education
+## Education
 
-### B.Tech — Electrical and Electronics Engineering
-
+### B.Tech in Electrical and Electronics Engineering
 **Amrita School of Engineering, Bengaluru**
 
 ### Data Analytics Certification
-
 **Masai School**
 
 ---
 
-# 🌱 Currently Learning
+## Currently Learning
 
-I'm continuously strengthening my knowledge in:
+I’m currently strengthening my knowledge in:
 
-- 🧠 Advanced SQL
-- 🐍 Python for Data Analysis
-- 📊 Statistics & Probability
-- 🤖 Machine Learning
-- 📈 Data Science
-- 🏦 Financial & Risk Analytics
-- 🧹 Data Quality & Data Governance
-- 🚀 End-to-End Data Analytics Projects
-
----
-
-# 🎯 Career Goal
-
-My goal is to continuously grow from **Data Analytics toward Data Science**, while building strong expertise in:
-
-**Data Analytics → Statistics → Machine Learning → Financial & Risk Analytics**
-
-I believe in learning quickly, adapting to new challenges, and using data to solve real-world business problems.
+- Advanced SQL
+- Python for Data Analysis
+- Statistics and Probability
+- Machine Learning
+- Data Quality and Data Governance
+- Financial and Risk Analytics
+- End-to-End Data Analytics Projects
 
 ---
 
-# 🏑 Beyond Data
+## Career Goal
 
-When I'm not working with data, you'll probably find me:
+My goal is to continue growing in **Data Analytics** while gradually expanding into **Data Science, Machine Learning, and Financial & Risk Analytics**.
 
-- 🏑 Playing **Field Hockey**
-- 🏋️ Working out and staying active
-- 📚 Reading **self-development books**
-- 🎧 Exploring content around learning and personal growth
+I want to build strong problem-solving skills and use data to solve practical business problems.
 
 ---
 
-# 🤝 Let's Connect
+## Beyond Data
 
-I'm always interested in discussing **Data Analytics, Data Science, SQL, Python, BI, financial analytics, and interesting data projects**.
+Outside work, I enjoy:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brajesh%20V%20Kulkarni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brajesh-v-kulkarni-braj-ab3911108)
-
-[![GitHub](https://img.shields.io/badge/GitHub-BrajeshVKulkarni-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrajeshVKulkarni)
-
-📧 **Email:** [brajeshkulkarni8@gmail.com](mailto:brajeshkulkarni8@gmail.com)
+- 🏑 Playing Field Hockey
+- 🏋️ Fitness and working out
+- 📚 Reading self-development books
+- 🎧 Learning through podcasts and educational content
 
 ---
 
-### 💡 Turning raw data into insights, insights into decisions, and repetitive processes into automation.
+## Let's Connect
+
+I'm always open to connecting with people interested in **Data Analytics, SQL, Python, BI, Data Science, and Financial Analytics**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brajesh%20V%20Kulkarni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brajesh-v-kulkarni-braj-ab3911108)
+
+[![GitHub](https://img.shields.io/badge/GitHub-BrajeshVKulkarni-181717?style=flat&logo=github&logoColor=white)](https://github.com/BrajeshVKulkarni)
+
+📧 [brajeshkulkarni8@gmail.com](mailto:brajeshkulkarni8@gmail.com)
+
+---
+
+> **Turning data into insights, insights into decisions, and repetitive processes into automation.**
 ```
